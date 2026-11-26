@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drpartition.my/sitemap.xml
